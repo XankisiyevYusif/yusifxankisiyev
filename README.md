@@ -31,15 +31,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yusifxankisiyev&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yusifxankisiyev&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
 ### 📌 Featured Projects
 
 - 🔗 [HealthTracker App](https://github.com/yusifxankisiyev/HealthTracker)
