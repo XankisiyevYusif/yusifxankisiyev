@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Yusif 👋</h1>
 
 <p align="center">
-  💻 Backend Developer | 🎓 Computer Engineering Student at ADNSU | 🇦🇿 Azerbaijan
+  💻 Full-Stack Developer | 🎓 Computer Engineering Student | 🇦🇿 Azerbaijan
 </p>
 
 ---
