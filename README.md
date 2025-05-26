@@ -35,7 +35,7 @@
 
 - 🔗 [HealthTracker App](https://github.com/XankisiyevYusif/Health-Tracker)
 - 🔗 [Live Crypto Chart](https://github.com/XankisiyevYusif/Live-Crypto-Charts)
-- 🔗 [AI Presentation Generator](https://github.com/yusifxankisiyev/AI-Presentation-Tool)
+- 🔗 [Social Media App (SignalR)](https://github.com/XankisiyevYusif/SocialNetwork)
 
 ---
 
