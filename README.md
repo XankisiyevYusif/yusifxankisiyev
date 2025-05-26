@@ -27,14 +27,14 @@
 
 **Tools:**
 - `Visual Studio` | `VS Code` | `Postman`
-- `AutoDS`, `Git`, `GitHub`, `Docker`
+- `Git`, `GitHub`, `Docker`
 
 ---
 
 ### 📌 Featured Projects
 
 - 🔗 [HealthTracker App](https://github.com/XankisiyevYusif/Health-Tracker)
-- 🔗 [RealEstate CRM (Role-based)](https://github.com/yusifxankisiyev/RealEstateCRM)
+- 🔗 [Live Crypto Chart](https://github.com/XankisiyevYusif/Live-Crypto-Charts)
 - 🔗 [AI Presentation Generator](https://github.com/yusifxankisiyev/AI-Presentation-Tool)
 
 ---
@@ -42,8 +42,7 @@
 ### 📫 Contact Me
 
 - 📧 Email: yusif2006xankisiyev@gmail.com  
-- 🌐 Portfolio: *(yakında ekleyebilirsin)*  
-- 🧠 Languages: Azerbaijani (native), Turkish (native), English (B2), Russian (intermediate)
+- 🧠 Languages: Azerbaijani (native), Turkish (native), English, Russian 
 
 ---
 
