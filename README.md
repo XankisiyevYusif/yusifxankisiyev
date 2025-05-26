@@ -33,7 +33,7 @@
 
 ### 📌 Featured Projects
 
-- 🔗 [HealthTracker App](https://github.com/yusifxankisiyev/HealthTracker)
+- 🔗 [HealthTracker App](https://github.com/XankisiyevYusif/Health-Tracker)
 - 🔗 [RealEstate CRM (Role-based)](https://github.com/yusifxankisiyev/RealEstateCRM)
 - 🔗 [AI Presentation Generator](https://github.com/yusifxankisiyev/AI-Presentation-Tool)
 
